@@ -1,5 +1,5 @@
 ## Yo, wsg? 👋
-You can contact me via discord, aight? > `m0nteirox64`
+You can contact me via discord, aight? > `monteiropsv`
 
 Im **Monteiro** a ✨ _Programmer_ ✨ developer since `2022` ill tell you some of my skills:
 
