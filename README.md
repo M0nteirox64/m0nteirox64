@@ -1,8 +1,6 @@
-<h1 align="center>MonteiroPSV</h1>
-<p align="center">Welcome to my GitHub.</p>
+<h1 align="center">MonteiroPSV</h1>
 
-<p align="center">- History</p>
-<p align="center">- Programming (C, C++ & Python)
-<p align="center">- Maths</p>
+<p align="center">Um adolescente estudante à procura de abrir novos horizontes.</p>
 
-
+<h1>Sobre</h1>
+<p>Queres falar comigo? Discord: monteiropsv</p>
