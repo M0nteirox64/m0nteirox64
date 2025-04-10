@@ -1,10 +1,8 @@
-## yo wtw 👋
-You can contact me via discord > `monteiropsv`
+<h1 align="center>MonteiroPSV</h1>
+<p align="center">Welcome to my GitHub.</p>
 
-Im **Monteiro**, a ✨ _Programmer_ ✨ since `2022` and ill tell you some of my skills:
-
-- 🔭 Mini historian;
-- 💻 C/C++ & python;
-- 🔑 Designing.
+<p align="center">- History</p>
+<p align="center">- Programming (C, C++ & Python)
+<p align="center">- Maths</p>
 
 
