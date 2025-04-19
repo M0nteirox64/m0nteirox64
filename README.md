@@ -1,6 +1,6 @@
 <h1 align="center">MonteiroPSV</h1>
 
-<p align="center">Um adolescente estudante à procura de abrir novos horizontes.</p>
+<p align="center">Um estudante à procura de abrir novos horizontes.</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,mysql,neovim" alt="Skills" />
 </p>
