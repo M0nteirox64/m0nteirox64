@@ -2,7 +2,7 @@
 
 <p align="center">Um estudante à procura de abrir novos horizontes.</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,mysql,neovim" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,mysql,linux" alt="Skills" />
 </p>
 <h1>Sobre</h1>
 <p>Queres falar comigo? discord @ memorylleak</p>
