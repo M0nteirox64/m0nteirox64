@@ -5,4 +5,4 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,py,mysql,linux" alt="Skills" />
 </p>
 <h1>Sobre</h1>
-<p>Queres falar comigo? discord @ memorylleak</p>
+<p>Queres falar comigo? discord @ monteiropsv</p>
